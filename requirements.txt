@@ -8,3 +8,4 @@ yfinance
 TA-Lib
 textblob
 pynance
+scipy
