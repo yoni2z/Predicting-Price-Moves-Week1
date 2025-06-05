@@ -4,3 +4,7 @@ matplotlib
 seaborn
 nltk
 notebook
+yfinance
+TA-Lib
+textblob
+pynance
